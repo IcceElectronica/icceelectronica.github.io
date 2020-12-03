@@ -1,2 +1,2 @@
 # icceelectronica.github.io
-In this page, I store my firsts programms on github
+In this page, I'm storing my firsts programms on github
